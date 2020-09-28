@@ -1,0 +1,27 @@
+{
+  "infos": {
+    "description": "test_external-BoneTumor detection in coco-format",
+    "version": "0.01",
+    "year": 2020,
+    "contributor": "Nikolas Wilhelm",
+    "date_created": "2020923"
+  },
+  "licences": [
+    {
+      "id": 1,
+      "name": "todo"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "Benign Tumor"
+    },
+    {
+      "id": 1,
+      "name": "Malignant Tumor"
+    }
+  ],
+  "images": [],
+  "annotations": []
+}  
