@@ -20,4 +20,4 @@ ipywidgets==7.5.1
 voila
 git+git://github.com/sphinx-doc/sphinx.git@7acd3ada3f38076af7b2b5c9f3b60bb9c2587a3d
 git+git://github.com/facebookresearch/fvcore.git
-detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu102/torch1.6/index.html
+https://dl.fbaipublicfiles.com/detectron2/wheels/cu102/torch1.6/index.html
