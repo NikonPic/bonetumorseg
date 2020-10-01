@@ -20,4 +20,4 @@ torchvision==0.7.0+cpu
 git+git://github.com/facebookresearch/fvcore.git
 ipywidgets==7.5.1
 voila
-https://dl.fbaipublicfiles.com/detectron2/wheels/cu102/torch1.6/index.html
+--find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cu102/torch1.6/index.html
