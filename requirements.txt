@@ -10,7 +10,7 @@ termcolor
 yacs
 tabulate
 cloudpickle
-Pillow==6.2.2
+Pillows
 future
 requests
 six
@@ -22,5 +22,5 @@ git+git://github.com/sphinx-doc/sphinx.git@7acd3ada3f38076af7b2b5c9f3b60bb9c2587
 git+git://github.com/facebookresearch/fvcore.git
 
 # Detectron
---find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cu102/torch1.6/index.html
+--find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.6/index.html
 detectron2
